@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    }
+    footer {
+    margin-top: auto;
+    }
 /* --------------------colours */
 .gd-color-name-title {
     background-color: #676767;
